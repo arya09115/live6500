@@ -1,4 +1,4 @@
-# INISTALASI WEB LIVE PREMIUM
+# INISTALASI WEB
 
 ## ⚡ Instal Aapanel
 
