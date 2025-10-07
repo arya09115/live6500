@@ -125,7 +125,8 @@ server {
 }
 
 ```
-## ⚡ Instal Fronten
+## ⚡ Instal Frontend
+Masuk Direktori domain nginx, hapus semua, install frontend
 VIP
 ```bash
 gdown https://drive.google.com/uc?id=1ga9qfQjZa0I8RnsHGAhU98xDKGU_dj0L
